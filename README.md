@@ -1,2 +1,3 @@
-# supermarket_sales_prediction
- This project focuses on predicting sales for a supermarket using machine learning techniques.
+Sales Prediction for Supermarket Project
+Overview
+This project focuses on predicting sales for a supermarket using machine learning techniques. By analyzing historical sales data and relevant features, the goal is to create a model that can accurately forecast future sales. The project is designed to help supermarket management make informed decisions regarding inventory management, staffing, and overall business strategy.
